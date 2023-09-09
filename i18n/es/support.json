@@ -1,0 +1,51 @@
+{
+  "header": {
+    "title": "Atención al Cliente",
+    "content": "¡Bienvenido/a a nuestra página de Atención al Cliente! Estamos aquí para ayudarte con cualquier pregunta, inquietud o consulta que puedas tener. En [Nombre de la Tienda de Cannabis], nos comprometemos a brindar un servicio al cliente de primera para garantizar tu satisfacción y una experiencia de compra fluida. A continuación, encontrarás información sobre cómo ponerte en contacto con nosotros y respuestas a preguntas frecuentes."
+  },
+  "introduction": {
+    "title": "Contáctanos",
+    "content": {
+      "paragraph": "Si necesitas ayuda, nuestro equipo de soporte dedicado está listo para ayudarte. Puedes comunicarte con nosotros a través de los siguientes métodos:",
+      "options": [
+        {
+          "subtitle": "Correo Electrónico",
+          "description": "Comunícate con nuestro equipo de soporte en [support@email.com](mailto:support@email.com)."
+        },
+        {
+          "subtitle": "Teléfono",
+          "description": "Llámanos al [número de teléfono]."
+        }
+      ]
+    }
+  },
+  "frequentQuestions": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Cómo realizo un pedido?",
+        "answer": "Realizar un pedido con nosotros es fácil. Simplemente navega por nuestra selección de productos de cannabis de alta calidad, agrega los artículos a tu carrito y procede al pago. Si encuentras algún problema, no dudes en ponerte en contacto con nuestro equipo de soporte para obtener ayuda."
+      },
+      {
+        "question": "¿Qué métodos de pago aceptan?",
+        "answer": "Aceptamos varios métodos de pago, incluyendo tarjetas de crédito y débito. Puedes estar tranquilo/a de que nuestro procesamiento de pagos es seguro y encriptado para proteger tu información personal."
+      },
+      {
+        "question": "¿Cómo hago seguimiento a mi pedido?",
+        "answer": "Una vez que procesemos tu pedido, recibirás un correo electrónico de confirmación con un número de seguimiento. Puedes usar este número de seguimiento para monitorear el estado y la ubicación de tu paquete."
+      },
+      {
+        "question": "¿Cuál es su política de devoluciones?",
+        "answer": "Tenemos una política de devoluciones sin complicaciones. Si no estás satisfecho/a con tu compra, consulta nuestra política de Devoluciones y Reembolsos para obtener información detallada sobre cómo iniciar una devolución."
+      },
+      {
+        "question": "¿Está segura mi información personal y médica?",
+        "answer": "Absolutamente. Tomamos tu privacidad en serio e implementamos rigurosas medidas de seguridad para proteger tu información. Para más detalles, consulta nuestra Política de Privacidad."
+      },
+      {
+        "question": "¿Puedo obtener ayuda con recomendaciones de productos?",
+        "answer": "¡Por supuesto! Nuestro personal experto puede proporcionar recomendaciones personalizadas en función de tus preferencias y necesidades. No dudes en ponerte en contacto con nosotros para obtener ayuda en encontrar los productos de cannabis perfectos para ti."
+      }
+    ]
+  }
+}

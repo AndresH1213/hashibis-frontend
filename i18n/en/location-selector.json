@@ -1,0 +1,27 @@
+{
+  "title": "SELECT A DELIVERY COUNTRY:",
+  "content": [
+    {
+      "region": "North America",
+      "countries": [
+        {
+          "name": "USA",
+          "flagPath": "usa.svg"
+        }
+      ]
+    },
+    {
+      "region": "South America",
+      "countries": [
+        {
+          "name": "Mexico",
+          "flagPath": "mexico.svg"
+        },
+        {
+          "name": "Colombia",
+          "flagPath": "colombia.svg"
+        }
+      ]
+    }
+  ]
+}

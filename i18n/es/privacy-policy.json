@@ -1,0 +1,57 @@
+{
+  "introduction": {
+    "title": "Política de Privacidad",
+    "content": "En Hashibis, estamos comprometidos con la protección de la privacidad y confidencialidad de la información personal y médica de nuestros clientes. Esta Política de Privacidad describe cómo recopilamos, usamos, divulgamos y protegemos su información. Al acceder o utilizar nuestro sitio web y servicios, usted acepta las prácticas descritas en esta política."
+  },
+  "informationCollection": {
+    "title": "Recopilación y Uso de Información",
+    "content": "Podemos recopilar información personal y médica que usted nos proporcione voluntariamente o que sea necesaria para su interacción con nuestro sitio web y servicios. Esto puede incluir:",
+    "services": [
+      "Detalles de contacto (nombre, dirección de correo electrónico, número de teléfono)",
+      "Información médica (si corresponde, para consultas médicas)",
+      "Información de pago",
+      "Direcciones de envío y facturación",
+      "Datos de uso (cookies, dirección IP, historial de navegación)",
+      "Preferencias de comunicación"
+    ]
+  },
+  "informationUse": {
+    "title": "Uso de la Información",
+    "content": "Utilizamos la información recopilada para diversos fines, incluyendo:",
+    "uses": [
+      "Procesar pedidos y brindar soporte al cliente",
+      "Gestionar su cuenta y preferencias",
+      "Enviar notificaciones e actualizaciones importantes",
+      "Realizar análisis internos y mejorar nuestros servicios",
+      "Cumplir con requisitos legales y regulaciones"
+    ]
+  },
+  "medicalInformation": {
+    "title": "Información Médica",
+    "content": "Si decide proporcionar información médica con el propósito de consultas médicas, tratamos esta información con la máxima confidencialidad. La información médica se utiliza únicamente para el propósito previsto, como proporcionar recomendaciones personalizadas y garantizar su seguridad al usar productos de cannabis. No compartimos su información médica con terceros sin su consentimiento explícito."
+  },
+  "dataSecurity": {
+    "title": "Seguridad de Datos",
+    "content": "Empleamos medidas de seguridad estándar de la industria para proteger su información personal y médica contra el acceso no autorizado, alteración, divulgación o destrucción. Utilizamos conexiones encriptadas (SSL) para la transmisión de datos y revisamos regularmente nuestras prácticas de seguridad para garantizar la integridad de sus datos."
+  },
+  "thirdPartyServices": {
+    "title": "Servicios de Terceros",
+    "content": "Podemos utilizar servicios de terceros que recopilan información para mejorar su experiencia y analizar el comportamiento del usuario. Sin embargo, estos terceros están sujetos a sus propias políticas y prácticas de privacidad, y no controlamos sus actividades."
+  },
+  "yourChoices": {
+    "title": "Sus Opciones",
+    "content": "Usted tiene el derecho de acceder, actualizar o eliminar su información personal. También puede gestionar sus preferencias de comunicación y optar por no recibir correos electrónicos promocionales. Para ejercer estos derechos, por favor contáctenos a [correo electrónico/número de teléfono de contacto]."
+  },
+  "legalRequirements": {
+    "title": "Requisitos Legales",
+    "content": "Podemos divulgar su información si así lo requiere la ley, procesos legales o autoridades reguladoras. También podemos divulgar información para proteger nuestros derechos, privacidad, seguridad o propiedad."
+  },
+  "childrenPrivacy": {
+    "title": "Privacidad de los Menores",
+    "content": "Nuestros servicios están destinados a personas mayores de edad. No recopilamos intencionalmente información personal de niños menores de la edad legal en su jurisdicción. Si cree que hemos recopilado información de un menor, contáctenos de inmediato."
+  },
+  "changesToThisPolicy": {
+    "title": "Cambios en esta Política",
+    "content": "Si tiene alguna pregunta, inquietud o solicitud relacionada con su privacidad, comuníquese con nuestro Oficial de Privacidad en [detalles de contacto de privacidad]."
+  }
+}

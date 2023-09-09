@@ -1,0 +1,37 @@
+{
+  "title1": "What people",
+  "title2": " are saying.",
+  "introduction": "Some testimonials of people that cannabis and improved their lifes.",
+  "testimonials": [
+    {
+      "image": "https://i.pravatar.cc/100?img=1",
+      "name": "Kenzie Edgar.",
+      "quote": "I've been battling chronic pain for years, and it seemed like I had tried every treatment out there. But when I started using cannabis products, everything changed. Not only did it alleviate my pain, but it also improved my overall quality of life. I'm finally able to enjoy daily activities again."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=2",
+      "name": "Stevie Tifft.",
+      "quote": "As someone who struggled with anxiety and stress, life was often overwhelming. Cannabis products, particularly CBD, have been a game-changer for me. They help me stay calm and focused, and I've seen a significant reduction in my anxiety levels. I'm finally in control of my mental health."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=3",
+      "name": "Tommie Ewart.",
+      "quote": "For years, I battled with insomnia, and it took a toll on my health. After trying various sleep aids with no success, I turned to cannabis, and it was a revelation. Cannabis helped me fall asleep faster and enjoy deeper, more restful sleep. I wake up feeling refreshed and energized."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=4",
+      "name": "Charlie Howse.",
+      "quote": "I've had epilepsy since I was a child, and the seizures were a constant struggle. Traditional medications had limited success and came with harsh side effects. Cannabis-based treatments, specifically CBD oil, have significantly reduced my seizure frequency and allowed me to live a more normal life."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=5",
+      "name": "Nevada Herbertson.",
+      "quote": "Migraines used to be a regular part of my life, and they were debilitating. I tried various medications, but none provided consistent relief. Cannabis, particularly strains high in CBD, has been a lifesaver. Now, I can prevent and manage my migraines effectively."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=6",
+      "name": "Kris Stanton.",
+      "quote": "When I was diagnosed with cancer, the journey was incredibly challenging. Alongside conventional treatments, I incorporated cannabis to help manage pain, nausea, and the side effects of chemotherapy. It made a significant difference in my comfort and recovery."
+    }
+  ]
+}

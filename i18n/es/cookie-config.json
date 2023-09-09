@@ -1,0 +1,20 @@
+{
+  "title": "Gestionar Preferencias de Seguimiento",
+  "intro": "Seleccione y acepte sus preferencias de seguimiento:",
+  "content": [
+    {
+      "category": "Marketing (incluyendo anuncios personalizados)",
+      "description": "En Hashibis, nosotros y nuestros socios publicitarios (incluidas las plataformas de redes sociales como Google, Facebook e Instagram) utilizamos el seguimiento para proporcionar ofertas personalizadas que mejoran toda su experiencia con el cannabis. Esto incluye el envío de 'mensajes selectivos en plataformas de publicidad de terceros', como se describe en nuestro Aviso de Privacidad. Si no acepta este seguimiento, seguirá viendo anuncios de Hashibis al azar en otras plataformas."
+    },
+    {
+      "category": "Funcional (mejora del sitio web)",
+      "description": "Utilizamos el seguimiento funcional para analizar cómo se utiliza nuestro sitio web. Esta información nos ayuda a identificar errores, desarrollar nuevos diseños y probar la efectividad del sitio web. Estas cookies también proporcionan datos para el análisis publicitario y se comparten con nuestros socios de marketing afiliados."
+    },
+    {
+      "category": "Necesario (acceso al sitio web)",
+      "description": "Utilizamos cookies para habilitar las operaciones esenciales del sitio web y asegurarnos de que ciertas características funcionen correctamente, como las opciones de inicio de sesión o agregar productos al carrito. Este seguimiento está siempre habilitado; de lo contrario, no podrá ver el sitio web ni realizar compras en línea."
+    }
+  ],
+  "learnMore": "¿Desea obtener más información sobre cómo Hashibis realiza el seguimiento? Eche un vistazo a nuestro Aviso de Privacidad.",
+  "buttonText": "Guardar Configuración"
+}

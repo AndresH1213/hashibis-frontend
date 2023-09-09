@@ -1,0 +1,20 @@
+{
+  "title": "Manage Tracking Preferences",
+  "intro": "Select and accept your tracking preferences:",
+  "content": [
+    {
+      "category": "Marketing (including personalized ads)",
+      "description": "At Hashibis, we and our advertising partners (including social media platforms like Google, Facebook, and Instagram) use tracking to deliver personalized offers that enhance your entire cannabis experience. This includes sending 'selective messages on third-party advertising platforms,' as described in our Privacy Notice. If you do not accept this tracking, you will continue to see Hashibis ads randomly on other platforms."
+    },
+    {
+      "category": "Functional (website improvement)",
+      "description": "We utilize functional tracking to analyze how our website is used. This information helps us identify errors, develop new designs, and test website effectiveness. These cookies also provide data for advertising analysis and are shared with our affiliated marketing partners."
+    },
+    {
+      "category": "Necessary (site access)",
+      "description": "We use cookies to enable essential website operations and ensure certain features work properly, such as login options or adding products to the cart. This tracking is always enabled; otherwise, you would not be able to view the website or make online purchases."
+    }
+  ],
+  "learnMore": "Want to learn more about how Hashibis tracks you? Take a look at our Privacy Notice.",
+  "buttonText": "Save Configuration"
+}

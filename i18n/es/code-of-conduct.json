@@ -1,0 +1,48 @@
+{
+  "title": "Código de Conducta",
+  "header": "Bienvenido a nuestro Código de Conducta",
+  "linkText": "Explorar Ahora",
+  "introduction": "En Hashibis, nos esforzamos por crear una comunidad respetuosa, inclusiva y segura para todos los entusiastas del cannabis, con el objetivo de mantener un entorno positivo.",
+  "rules": [
+    {
+      "title": "Comunicación Respetuosa",
+      "content": "Trata a los demás miembros de la comunidad con respeto y amabilidad. Participa en discusiones constructivas y evita cualquier forma de acoso, discurso de odio o lenguaje discriminatorio."
+    },
+    {
+      "title": "Mantén el Tema",
+      "content": "Mantén tus contribuciones relevantes para la industria del cannabis, el cultivo, los productos y temas relacionados. Las discusiones fuera de tema pueden ser eliminadas para asegurar que el enfoque de la comunidad se mantenga intacto."
+    },
+    {
+      "title": "Comparte Información Precisa",
+      "content": "Al compartir información o consejos, asegúrate de que sean precisos, confiables y provengan de fuentes confiables. La desinformación puede ser perjudicial y engañosa para los demás."
+    },
+    {
+      "title": "No Promoción de Actividades Ilegales",
+      "content": "Nuestra plataforma promueve actividades relacionadas con el cannabis responsables y legales. No participes en discusiones o promociones de actividades que sean ilegales o contrarias a nuestros términos de servicio."
+    },
+    {
+      "title": "Respeta la Privacidad",
+      "content": "No compartas información personal de otros sin su consentimiento. Protege tu propia privacidad y la de los demás miembros."
+    },
+    {
+      "title": "Reporta Violaciones",
+      "content": "Si encuentras contenido que viola nuestro Código de Conducta o nuestros términos de servicio, repórtalo a nuestro equipo de moderación para su revisión. Agradecemos tu ayuda para mantener una comunidad positiva."
+    },
+    {
+      "title": "Abierto a Perspectivas Diferentes",
+      "content": "La comunidad del cannabis es diversa y pueden surgir diferentes opiniones. Aproxímate a las discusiones con una mente abierta y disposición para aprender de los demás."
+    },
+    {
+      "title": "Sin Spam ni Autopromoción",
+      "content": "Evita el envío masivo de contenido autopromocional a la comunidad. Si tienes un negocio, considera las opciones de publicidad disponibles en nuestra plataforma."
+    },
+    {
+      "title": "Debates Respetuosos",
+      "content": "Se fomentan los debates saludables, pero siempre mantén un tono respetuoso al discrepar con las opiniones de los demás."
+    },
+    {
+      "title": "Apoyo a la Comunidad",
+      "content": "Apoya a otros miembros de la comunidad proporcionando orientación, respondiendo preguntas y compartiendo tus experiencias. Recuerda que todos estamos aquí para aprender y crecer juntos."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title1": "Lo que dicen",
+  "title2": "las personas.",
+  "introduction": "Algunos testimonios de personas que han mejorado sus vidas con el cannabis.",
+  "testimonials": [
+    {
+      "image": "https://i.pravatar.cc/100?img=1",
+      "name": "Kenzie Edgar.",
+      "quote": "Luché contra el dolor crónico durante años, y parecía que había probado todos los tratamientos disponibles. Pero cuando empecé a usar productos de cannabis, todo cambió. No solo alivió mi dolor, sino que también mejoró mi calidad de vida en general. Finalmente puedo disfrutar de las actividades diarias de nuevo."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=2",
+      "name": "Stevie Tifft.",
+      "quote": "Como alguien que luchó contra la ansiedad y el estrés, la vida a menudo resultaba abrumadora. Los productos de cannabis, especialmente el CBD, han marcado la diferencia para mí. Me ayudan a mantener la calma y la concentración, y he experimentado una reducción significativa en mis niveles de ansiedad. Finalmente tengo el control de mi salud mental."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=3",
+      "name": "Tommie Ewart.",
+      "quote": "Durante años, luché contra el insomnio, lo que tuvo un gran impacto en mi salud. Después de probar varios somníferos sin éxito, recurrí al cannabis, y fue una revelación. El cannabis me ayudó a conciliar el sueño más rápido y a disfrutar de un sueño más profundo y reparador. Me despierto sintiéndome renovado y lleno de energía."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=4",
+      "name": "Charlie Howse.",
+      "quote": "Tengo epilepsia desde que era niño, y las convulsiones eran una lucha constante. Los medicamentos tradicionales tenían un éxito limitado y venían con efectos secundarios severos. Los tratamientos a base de cannabis, específicamente el aceite de CBD, han reducido significativamente la frecuencia de mis convulsiones y me han permitido llevar una vida más normal."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=5",
+      "name": "Nevada Herbertson.",
+      "quote": "Las migrañas solían ser una parte regular de mi vida, y eran debilitantes. Probé varios medicamentos, pero ninguno proporcionaba un alivio constante. El cannabis, especialmente las cepas ricas en CBD, ha sido un salvavidas. Ahora puedo prevenir y controlar mis migrañas de manera efectiva."
+    },
+    {
+      "image": "https://i.pravatar.cc/100?img=6",
+      "name": "Kris Stanton.",
+      "quote": "Cuando me diagnosticaron cáncer, el viaje fue increíblemente desafiante. Junto con los tratamientos convencionales, incorporé el cannabis para ayudar a controlar el dolor, las náuseas y los efectos secundarios de la quimioterapia. Hizo una diferencia significativa en mi comodidad y recuperación."
+    }
+  ]
+}

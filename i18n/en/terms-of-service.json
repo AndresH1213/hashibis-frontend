@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Terms of Service",
+    "content": "Welcome to Hashibis! These terms and conditions govern your use of our website and services. By accessing or using our website, you agree to comply with and be bound by these Terms of Service. If you do not agree with these terms, please refrain from using our website."
+  },
+  "useOfWebsite": {
+    "title": "Use of Website",
+    "content": [
+      "You must be of legal age to purchase cannabis products in your jurisdiction to use our services.",
+      "You agree to provide accurate and truthful information when creating an account or making a purchase.",
+      "Any content posted or shared on our website must not violate any laws or infringe upon the rights of others."
+    ]
+  },
+  "productInformation": {
+    "title": "Product Information",
+    "content": [
+      "The information provided on our website is for educational and informational purposes only and should not be considered as medical advice.",
+      "We reserve the right to change product prices, descriptions, and availability at any time."
+    ]
+  },
+  "placingOrders": {
+    "title": "Placing Orders",
+    "content": [
+      "Placing an order signifies your intention to purchase the selected products.",
+      "You agree to provide accurate and up-to-date payment information for purchases."
+    ]
+  },
+  "paymentAndShipping": {
+    "title": "Payment and Shipping",
+    "content": [
+      "All payments are processed securely through authorized payment gateways.",
+      "Shipping times and fees may vary based on your location and the selected shipping method."
+    ]
+  },
+  "returnsAndRefunds": {
+    "title": "Returns and Refunds",
+    "content": [
+      "Our Returns and Refunds policy outlines the conditions and process for returning products and seeking refunds.",
+      "We reserve the right to refuse returns or refunds for products that have been opened, used, or damaged."
+    ]
+  },
+  "intellectualProperty": {
+    "title": "Intellectual Property",
+    "content": "All content on our website, including text, images, graphics, and logos, is protected by intellectual property laws and is owned by Hashibis."
+  },
+  "limitationOfLiability": {
+    "title": "Limitation of Liability",
+    "content": [
+      "Hashibis is not liable for any damages or losses arising from the use of our website or products.",
+      "We do not guarantee the accuracy or completeness of the information provided on our website."
+    ]
+  },
+  "privacy": {
+    "title": "Privacy",
+    "content": "Our Privacy Policy explains how we collect, use, and protect your personal information. By using our website, you consent to our privacy practices."
+  },
+  "changesToTerms": {
+    "title": "Changes to Terms",
+    "content": "We may update these Terms of Service from time to time. It's your responsibility to review the updated terms."
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "content": "If you have any questions or concerns about our Terms of Service, please contact us at [contact email/phone number]. Your use of our website is subject to these terms, and we appreciate your understanding and compliance."
+  },
+  "effectiveDate": "[Date of Implementation]"
+}

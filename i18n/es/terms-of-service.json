@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Términos de Servicio",
+    "content": "¡Bienvenido a Hashibis! Estos términos y condiciones rigen el uso de nuestro sitio web y servicios. Al acceder o utilizar nuestro sitio web, aceptas cumplir y estar sujeto a estos Términos de Servicio. Si no estás de acuerdo con estos términos, por favor abstente de usar nuestro sitio web."
+  },
+  "useOfWebsite": {
+    "title": "Uso del Sitio Web",
+    "content": [
+      "Debes ser mayor de edad según la legislación de tu jurisdicción para comprar productos de cannabis y utilizar nuestros servicios.",
+      "Aceptas proporcionar información precisa y veraz al crear una cuenta o realizar una compra.",
+      "Cualquier contenido publicado o compartido en nuestro sitio web no debe violar leyes ni infringir derechos de terceros."
+    ]
+  },
+  "productInformation": {
+    "title": "Información del Producto",
+    "content": [
+      "La información proporcionada en nuestro sitio web es solo con fines educativos e informativos y no debe considerarse como consejo médico.",
+      "Nos reservamos el derecho de cambiar los precios, descripciones y disponibilidad de los productos en cualquier momento."
+    ]
+  },
+  "placingOrders": {
+    "title": "Realización de Pedidos",
+    "content": [
+      "Realizar un pedido indica tu intención de comprar los productos seleccionados.",
+      "Aceptas proporcionar información precisa y actualizada de pago para las compras."
+    ]
+  },
+  "paymentAndShipping": {
+    "title": "Pago y Envío",
+    "content": [
+      "Todos los pagos se procesan de manera segura a través de pasarelas de pago autorizadas.",
+      "Los tiempos y tarifas de envío pueden variar según tu ubicación y el método de envío seleccionado."
+    ]
+  },
+  "returnsAndRefunds": {
+    "title": "Devoluciones y Reembolsos",
+    "content": [
+      "Nuestra política de Devoluciones y Reembolsos describe las condiciones y el proceso para devolver productos y solicitar reembolsos.",
+      "Nos reservamos el derecho de rechazar devoluciones o reembolsos de productos que hayan sido abiertos, utilizados o dañados."
+    ]
+  },
+  "intellectualProperty": {
+    "title": "Propiedad Intelectual",
+    "content": "Todo el contenido en nuestro sitio web, incluyendo texto, imágenes, gráficos y logotipos, está protegido por leyes de propiedad intelectual y es propiedad de Hashibis."
+  },
+  "limitationOfLiability": {
+    "title": "Limitación de Responsabilidad",
+    "content": [
+      "Hashibis no se hace responsable de ningún daño o pérdida derivados del uso de nuestro sitio web o productos.",
+      "No garantizamos la precisión ni integridad de la información proporcionada en nuestro sitio web."
+    ]
+  },
+  "privacy": {
+    "title": "Privacidad",
+    "content": "Nuestra Política de Privacidad explica cómo recopilamos, utilizamos y protegemos tu información personal. Al usar nuestro sitio web, aceptas nuestras prácticas de privacidad."
+  },
+  "changesToTerms": {
+    "title": "Cambios en los Términos",
+    "content": "Podemos actualizar estos Términos de Servicio de vez en cuando. Es tu responsabilidad revisar los términos actualizados."
+  },
+  "contactUs": {
+    "title": "Contáctanos",
+    "content": "Si tienes alguna pregunta o inquietud sobre nuestros Términos de Servicio, por favor contáctanos en [correo electrónico/número de teléfono de contacto]. Tu uso de nuestro sitio web está sujeto a estos términos, y apreciamos tu comprensión y cumplimiento."
+  },
+  "effectiveDate": "[Fecha de Implementación]"
+}
