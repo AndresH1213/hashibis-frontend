@@ -15,7 +15,7 @@ import {
 import { SignUpParams } from '@/types';
 
 const client = new CognitoIdentityProviderClient({
-  region: process.env.AWS_REGION,
+  region: process.env.APP_AWS_REGION,
 });
 
 export const getUser = async (username: string) => {

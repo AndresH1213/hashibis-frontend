@@ -24,7 +24,7 @@ interface IJWT extends JWT {
 const {
   COGNITO_CLIENT_ID,
   COGNITO_CLIENT_SECRET,
-  AWS_REGION,
+  APP_AWS_REGION,
   COGNITO_POOL_ID,
   COGNITO_DOMAIN,
   NEXTAUTH_URL,
@@ -37,8 +37,8 @@ function getProvider(provider: TProvider): Provider {
     type: 'oauth',
     clientId: COGNITO_CLIENT_ID!,
     clientSecret: COGNITO_CLIENT_SECRET!,
-    issuer: `https://cognito-idp.${AWS_REGION}.amazonaws.com/${COGNITO_POOL_ID}`,
-    wellKnown: `https://cognito-idp.${AWS_REGION}.amazonaws.com/${COGNITO_POOL_ID}/.well-known/openid-configuration`,
+    issuer: `https://cognito-idp.${APP_AWS_REGION}.amazonaws.com/${COGNITO_POOL_ID}`,
+    wellKnown: `https://cognito-idp.${APP_AWS_REGION}.amazonaws.com/${COGNITO_POOL_ID}/.well-known/openid-configuration`,
     authorization: {
       url: `${COGNITO_DOMAIN}/oauth2/authorize`,
       params: {
@@ -80,7 +80,7 @@ export const authOptions: NextAuthOptions = {
     CognitoProvider({
       clientId: COGNITO_CLIENT_ID!,
       clientSecret: COGNITO_CLIENT_SECRET!,
-      issuer: `https://cognito-idp.${AWS_REGION}.amazonaws.com/${COGNITO_POOL_ID}`,
+      issuer: `https://cognito-idp.${APP_AWS_REGION}.amazonaws.com/${COGNITO_POOL_ID}`,
       idToken: true,
     }),
   ],
