@@ -65,7 +65,7 @@ const DisclosureWrapper = ({ title, content }: Props) => {
   );
 };
 
-const sectionForm = ({ userData }: { userData: MedicalUserData }) => {
+const sectionForm = ({ userData = {} }: { userData: MedicalUserData }) => {
   const handleStateChange = (fieldName: string, value: string) => {
     setForm((prevState) => ({ ...prevState, [fieldName]: value }));
   };
