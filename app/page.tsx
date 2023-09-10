@@ -22,12 +22,12 @@ const Home = async () => {
         />
         <PresentProduct
           image="/product-present-2.jpg"
-          title="Explore the benefits"
-          link={{ name: 'Benefits', path: '/benefits' }}
+          title="Explore the code of Conduct"
+          link={{ name: 'Conduct', path: '/company/code-of-conduct' }}
         />
       </div>
 
-      <div className="container flex flex-shrink space-x-3 justify-center align-middle">
+      <div className="container flex flex-shrink space-x-3 justify-center align-middle m-auto">
         <PresentPost
           title={CultivationI18N.title}
           intro={CultivationI18N.intro}

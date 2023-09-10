@@ -51,7 +51,7 @@ const Product = async ({ params: { id } }: { params: { id: string } }) => {
       </section>
 
       <section className="mt-14 relative">
-        <p className="absolute font-mono left-3 z-10 top-3 text-light-white text-2xl">
+        <p className="absolute font-mono left-3 z-10 top-3 text-gray-50 text-2xl">
           ~${Number(product.price).toLocaleString('en-US')}
         </p>
         {product.measureUnitConcentration && (

@@ -18,6 +18,10 @@ body {
   min-height: calc(100vh - 500px)
 }
 
+.maxWidth {
+  max-width: 1950px;
+}
+
 .flexCenter {
   @apply flex justify-center items-center;
 }
@@ -85,7 +89,7 @@ body {
 }
 
 .related_products-grid {
-  @apply grid xl:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 mt-5;
+  @apply grid xl:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 mt-5;
 }
 
 /* Custom Menu */

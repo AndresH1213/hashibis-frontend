@@ -24,7 +24,9 @@ export default function RootLayout({
       <body>
         <Navbar />
         <Suspense fallback={<Loader />}>
-          <main className="minHeigth">{children}</main>
+          <main className="minHeigth maxWidth container m-auto">
+            {children}
+          </main>
         </Suspense>
         <Footer />
         <ToastContainer closeOnClick pauseOnHover />

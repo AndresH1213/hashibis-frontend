@@ -1,12 +1,24 @@
 import Link from 'next/link';
 
-import { ProductInterface, UserProfile } from '@/types';
+import { ProductInterface } from '@/types';
 import Image from 'next/image';
 import { getProducts } from '@/services/Product';
 
+const getRandomProducts = (prodsToSelect: ProductInterface[], num: number) => {
+  const prods = [...prodsToSelect];
+  const selectedElements = [];
+  for (let i = 0; i < num; i++) {
+    const randomIndex = Math.floor(Math.random() * prods.length);
+    selectedElements.push(prods[randomIndex]);
+    prods.splice(randomIndex, 1);
+  }
+  return selectedElements;
+};
+
 const RelatedProducts = async () => {
-  const resp = await getProducts({ limit: 3 });
-  const { items: relatedProducts } = await resp.json();
+  const resp = await getProducts({ limit: 6 });
+  const { items } = await resp.json();
+  const relatedProducts = getRandomProducts(items, 3);
 
   return (
     <section className="flex flex-col mt-32 w-full">
@@ -16,7 +28,7 @@ const RelatedProducts = async () => {
         </Link>
       </div>
 
-      <div className="related_products-grid">
+      <div className="related_products-grid mx-auto">
         {relatedProducts?.map((prod: ProductInterface) => (
           <div className="flexCenter related_product-card drop-shadow-card">
             <Link
@@ -25,8 +37,8 @@ const RelatedProducts = async () => {
             >
               <Image
                 src={prod.images[0]}
-                width={414}
-                height={314}
+                width={300}
+                height={350}
                 className="w-full h-full object-cover rounded-2xl"
                 alt="product image"
               />
