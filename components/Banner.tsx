@@ -10,7 +10,6 @@ const Banner = () => {
   return (
     <Carousel
       infiniteLoop
-      dynamicHeight
       swipeable
       autoPlay
       stopOnHover={false}
@@ -20,12 +19,12 @@ const Banner = () => {
     >
       {bannerContent.map((banner, idx) => {
         return (
-          <div key={idx} className="w-full flex h-[500px] bg-light-white">
-            <div className="w-1/3 relative animate__animated animate__fadeIn">
+          <div key={idx} className="w-full md:flex md:h-[500px] bg-light-white">
+            <div className="w-full md:w-1/3 h-72 md:h-full relative animate__animated animate__fadeIn">
               <Image src={banner.image} fill alt="banner image" />
             </div>
-            <div className="w-2/3 flex flex-col justify-center align-middle">
-              <h1 className="text-7xl max-w-2xl mx-auto animate__animated animate__fadeInUp">
+            <div className="w-full md:w-2/3 h-64 md:h-full flex flex-col justify-center align-middle">
+              <h1 className="text-3xl lg:text-7xl md:text-5xl max-w-2xl mx-auto animate__animated animate__fadeInUp">
                 {banner.title}
               </h1>
               <p className="text-lg max-w-2xl mx-auto animate__animated animate__fadeInUp animate__delay-1s">

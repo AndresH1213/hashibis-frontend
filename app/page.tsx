@@ -14,7 +14,7 @@ const Home = async () => {
     <section className="flex-start flex-col paddings mb-8">
       <Banner />
 
-      <div className="w-full mx-auto flexBetween mt-20 pt-8 max-w-6xl  max-h-[375px]">
+      <div className="w-full mx-auto flex flex-col md:flex-row md:flexBetween mt-5 md:mt-20 pt-8 max-w-6xl max-h-full md:max-h-[375px]">
         <PresentProduct
           image="/product-present-1.jpg"
           title="Explore our products"
@@ -27,7 +27,7 @@ const Home = async () => {
         />
       </div>
 
-      <div className="container flex flex-shrink space-x-3 justify-center align-middle m-auto">
+      <div className="container flex flex-col md:flex-row md:flex-shrink space-x-3 justify-center align-middle m-auto">
         <PresentPost
           title={CultivationI18N.title}
           intro={CultivationI18N.intro}
